@@ -48,13 +48,29 @@ body, html {
   width: 21%;
 }
 #skillbox .node {
-  width: 30%;
+  width: 25%;
 }
 #skillbox .jquery {
-  width: 30%;
+  width: 25%;
 }
 #skillbox .sql {
-  width: 30%;
+  width: 25%;
+}
+
+.activitybox {
+  padding: 0 30px;
+}
+.activitybox .activity2 {
+  text-align: center;
+}
+.activitybox .activity2 img {
+  width: 56%;
+}
+.activitybox .activity3 {
+  text-align: center;
+}
+.activitybox .activity3 img {
+  width: 74%;
 }
 
 #work {

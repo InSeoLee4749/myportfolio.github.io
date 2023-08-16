@@ -52,17 +52,32 @@ body, html {
         width: 21%;
     }
     .node{
-        width: 30%;
+        width: 25%;
     }
     .jquery{
-        width: 30%;
+        width: 25%;
     }
     .sql{
-        width: 30%;
+        width: 25%;
     }
 }
 
 // activity
+.activitybox{
+    padding: 0 30px;
+    .activity2{
+        text-align: center;
+        img{
+            width: 56%;
+        }
+    }
+    .activity3{
+        text-align: center;
+        img{
+            width: 74%;
+        }
+    }
+}
 
 // work
 #work{
